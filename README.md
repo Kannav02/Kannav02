@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/kannav02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kannav02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kannav-sethi-055313237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kannav-sethi-055313237" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kannav02" target="blank"><svg width="337" height="337" viewBox="0 0 337 337" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M23.155 112.598c-30.873 30.874-30.873 80.93 0 111.804l89.443 89.443c30.874 30.873 80.93 30.873 111.804 0l89.443-89.443c30.873-30.874 30.873-80.93 0-111.804l-89.443-89.443c-30.874-30.873-80.93-30.873-111.804 0l-89.443 89.443zm184.476 95.033c21.612-21.611 21.612-56.651 0-78.262-21.611-21.612-56.651-21.612-78.262 0-21.612 21.611-21.612 56.651 0 78.262 21.611 21.612 56.651 21.612 78.262 0z" fill="white"/>
-</svg></a>
 </p>
 
 
