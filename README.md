@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-  <img src="Assets/Obi-Wan-Kenobi-drops-epic-teaser-trailer-with-Duel-of-the-Fates.jpg" height="250" />
-</div>
+<img align="center" src="Assets/Obi-Wan-Kenobi-drops-epic-teaser-trailer-with-Duel-of-the-Fates.jpg" height="250"></img>
 <!--
 **Kannav02/Kannav02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## :book: About Me
 
 - 🙎‍♂️ I'm Kannav Sethi
