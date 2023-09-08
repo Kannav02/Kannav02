@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :book: About Me
+
+- 🙎‍♂️ I'm Kannav Sethi
+- 🎓 Studying Honours Software Engineering at [Seneca Polytechnic](https://www.senecacollege.ca/home.html) , Toronto
+- 
