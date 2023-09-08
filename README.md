@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 - 🙎‍♂️ I'm Kannav Sethi
 - 🎓 Studying Honours Software Engineering at [Seneca Polytechnic](https://www.senecacollege.ca/home.html) , Toronto
-<img align="center" src="Assets/hackerman.png" height="250"></img>
+
+<img align="center" src="Assets/hackerman.png" width="200" height="250"></img>
 
 ## 🌐 : Connect With Me
 <p align="left">
