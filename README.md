@@ -1,4 +1,4 @@
-<img align="center" src="Assets/Obi-Wan-Kenobi-drops-epic-teaser-trailer-with-Duel-of-the-Fates.jpg" height="250"></img>
+<img align="center" src="Assets/Obi-Wan-Kenobi-drops-epic-teaser-trailer-with-Duel-of-the-Fates.jpg" height="250" width="250"></img>
 
 <!--
 **Kannav02/Kannav02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>📖 About Me</h2>
 
 - 🙎‍♂️ I'm Kannav Sethi
-- 🎓 Studying Honours Software Engineering at [Seneca Polytechnic](https://www.senecacollege.ca/home.html) , Toronto
+- 🎓 Studying Honours Software Engineering at [Seneca Polytechnic](https://www.senecacollege.ca/home.html), Toronto
 
 
 <br>
